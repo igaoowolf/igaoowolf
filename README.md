@@ -4,7 +4,8 @@
 
 
  ### Meu nome é Igor Nobre
-- 🌱 Cursando analise e desenvolvimento de sistemas.
+- 🌱 Cursando Suporte técnico em TI na instituição JA BRASIL em parceria com a Google.
+- 🌱 Cursei 3° semestres de análise e desenvolvimento de sistemas na instituição Uninove.
 - 🔭 Projeto ser um desenvolvedor de software.
 
 
@@ -17,8 +18,8 @@
 
 #
 <div> 
-  <a href="https://www.youtube.com/@IgorNbr" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@oigornobre" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor0100100101001110/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cnt329210665@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23033?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:oigornobre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23033?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   </div>
