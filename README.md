@@ -4,9 +4,9 @@
 
 
  ### Meu nome é Igor Nobre
-- 🌱 Cursando Suporte técnico em TI na instituição JA BRASIL em parceria com a Google.
-- 🌱 Cursei 3° semestres de análise e desenvolvimento de sistemas na instituição Uninove.
-- 🔭 Projeto ser um desenvolvedor de software.
+- 🌱 Cursando Administração na UNINGÁ - Centro Universitário Ingá.
+- 🌱 Profissionalizante, Suporte em TI do Google | IT Technical Support.
+- 🔭 Projeto ser um desenvolvedor e entrar na área administrativa.
 
 
 ![Banner](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
